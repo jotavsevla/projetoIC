@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Dataset e arquivos pesados
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.csv
+*.zip
+*.tar.gz
+*.rar
+
+# Imagens geradas
+*.png
+*.jpg
+*.jpeg
+!exemplos_*.png
+
+# Kaggle
+.kaggle/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Modelos salvos
+modelo_*.h5
+*.keras
+
+# Arquivos temporários
+*.log
+*.tmp
