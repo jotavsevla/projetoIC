@@ -90,7 +90,7 @@ Os resultados incluem:
 - Comparação de métricas (Acurácia, Precisão, Recall, F1-Score, AUC-ROC)
 
 ## Autor
-João Victor Apa
+Pedro Henrique Braga e João Victor Araújo 
 
 ## Licença
 Este projeto é parte de uma Iniciação Científica.
